@@ -10,5 +10,6 @@ public class Zadacha109 {
         System.out.println("Cухопутные мили: " + s);
         double m = x*0.5399568034557236;
         System.out.println("Морские мили: " + m);
+
     }
 }

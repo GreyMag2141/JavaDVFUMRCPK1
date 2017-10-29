@@ -11,5 +11,6 @@ public class Zadacha110 {
         double x = (s/100)*p;
         System.out.println("= " + x);
 
+
     }
 }
