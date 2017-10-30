@@ -7,7 +7,7 @@ public class Zadacha109 {
         System.out.print("Введите количество: ");
         double x =in.nextDouble();
         double s = x*0.6213711922373341; // в чем подвох
-        System.out.println("Cухопутные мили: " + s);
+        System.out.format("Cухопутные мили: " + "%.2f", s);
         double m = x*0.5399568034557236;
         System.out.println("Морские мили: " + m);
 
